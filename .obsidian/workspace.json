@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fcf784f6284391a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡 SCTO System explained.md",
+                "file": "Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡 SCTO System explained.md",
+                "file": "Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡 SCTO System explained.md"
+                "file": "Readme.md.md"
               }
             }
           }
@@ -136,8 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5501080a778e7b02",
+  "active": "2fcf784f6284391a",
   "lastOpenFiles": [
+    "💡 SCTO System explained.md",
+    "Readme.md.md",
     "👓 List of Papers.md",
     "4️⃣ Ontologies/What defines Biodiversity.md",
     "3️⃣ Thoughts/Biodiversity Mechanisms.md",
@@ -145,8 +160,6 @@
     "2️⃣ Compendiums/Concepts/Law of Requisite Variety.md",
     "1️⃣ Primary Sources/Shabanov 2022b.md",
     "1️⃣ Primary Sources/Shabanov 2022a.md",
-    "1️⃣ Primary Sources/Pianka 1966.md",
-    "1️⃣ Primary Sources/Connell 1964.md",
-    "📚 Reading List.md"
+    "1️⃣ Primary Sources/Pianka 1966.md"
   ]
 }
