@@ -7,13 +7,6 @@ ShortSummary: Primary production begets diversity. because more energy means big
 ---
 #ecology #reviewpaper  
 
-
-DOI: 
-Date: 4 Dec 2022
-Rating: 3/5
-Title: 
-ShortSummary: Review of 6 major theories of what causes species diversity especially higher diversity in the tropics.
-
 *Erik Pianka*
 # Latitudinal gradients in species diversity: a review of concepts
 
