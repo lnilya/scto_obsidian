@@ -6,7 +6,7 @@ This is a demo vault for [Obsidian](https://obsidian.md) a note taking tool. Dow
 
 You can download the contents of this repository directly here. 
 
-![[Screenshot 2022-12-14 at 17.03.26.jpg]]
+[[https://github.com/lnilya/scto_obsidian/raw/ce7868bb4dfc4bdd4f4a5017fe006a11496dbaa8/__Media/Screenshot%202022-12-14%20at%2017.03.26.jpg]]
 
 Please read the introduction on how to use it here: [[💡 SCTO System explained]]. 
 
