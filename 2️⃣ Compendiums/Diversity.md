@@ -10,7 +10,7 @@ Diversity is determined by amount of energy flowing through the food web. [[Conn
 
 increases with larger population sizes [[Connell 1964|Darwin 1859 in Connell 1964]]
 
-More abundant species of fish have more different types of parsites [[Connell 1964|Dogiel 1961 in Connell 1964]]
+More abundant species of fish have more different types of parasites [[Connell 1964|Dogiel 1961 in Connell 1964]]
 
 Increased stability of complex food webs result in an increased diversity of species. [[Connell 1964]]
 

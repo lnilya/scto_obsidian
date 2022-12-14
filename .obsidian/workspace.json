@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd6a24de8d01ada6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5501080a778e7b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💡 SCTO System explained.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "💡 SCTO System explained.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "💡 SCTO System explained.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "💡 SCTO System explained.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5501080a778e7b02",
+  "lastOpenFiles": [
+    "👓 List of Papers.md",
+    "4️⃣ Ontologies/What defines Biodiversity.md",
+    "3️⃣ Thoughts/Biodiversity Mechanisms.md",
+    "2️⃣ Compendiums/Diversity.md",
+    "2️⃣ Compendiums/Concepts/Law of Requisite Variety.md",
+    "1️⃣ Primary Sources/Shabanov 2022b.md",
+    "1️⃣ Primary Sources/Shabanov 2022a.md",
+    "1️⃣ Primary Sources/Pianka 1966.md",
+    "1️⃣ Primary Sources/Connell 1964.md",
+    "📚 Reading List.md"
+  ]
+}

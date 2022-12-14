@@ -6,10 +6,10 @@
 
 # Questions 
 
-In [[Pianka 1966]] 6 different hypothesis (time, spatial, competition, predation, climate and productivity) are analysed regardin biodiversity. But this was back in 1966 - what happened in the meantime? 
+In [[Pianka 1966]] 6 different hypothesis (time, spatial, competition, predation, climate and productivity) are analysed regarding biodiversity. But this was back in 1966 - what happened in the meantime? 
 
 
 # Ideas
 
-While biodiversity is measured using the [[Diversity#^6a8f55|Shanon Index]] this only applies to measuring the abundance of individuals. But could we instead measure genetic diversity? The defintion of a species is anyway not very clear in biology. 
+While biodiversity is measured using the [[Diversity#^6a8f55|Shanon Index]] this only applies to measuring the abundance of individuals. But could we instead measure genetic diversity? The definition of a species is anyway not very clear in biology. 
 
