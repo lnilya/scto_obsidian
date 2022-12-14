@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -152,7 +152,7 @@
   "active": "2fcf784f6284391a",
   "lastOpenFiles": [
     "💡 SCTO System explained.md",
-    "Readme.md.md",
+    "Readme.md",
     "👓 List of Papers.md",
     "4️⃣ Ontologies/What defines Biodiversity.md",
     "3️⃣ Thoughts/Biodiversity Mechanisms.md",
