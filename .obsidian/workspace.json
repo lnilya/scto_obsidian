@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd6a24de8d01ada6",
+        "id": "78648643c03c834f",
         "type": "tabs",
         "children": [
           {
-            "id": "2fcf784f6284391a",
+            "id": "bf83dc01d622bc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ Primary Sources/Pianka 1966.md",
+                "file": "4️⃣ Ontologies/What defines Biodiversity.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Connel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "f1027b9aeedb0cb5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1️⃣ Primary Sources/Pianka 1966.md",
+                "file": "4️⃣ Ontologies/What defines Biodiversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1️⃣ Primary Sources/Pianka 1966.md",
+                "file": "4️⃣ Ontologies/What defines Biodiversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1️⃣ Primary Sources/Pianka 1966.md"
+                "file": "4️⃣ Ontologies/What defines Biodiversity.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2fcf784f6284391a",
+  "active": "bf83dc01d622bc89",
   "lastOpenFiles": [
-    "💡 SCTO System explained.md",
-    "Readme.md",
-    "👓 List of Papers.md",
-    "4️⃣ Ontologies/What defines Biodiversity.md",
-    "3️⃣ Thoughts/Biodiversity Mechanisms.md",
-    "2️⃣ Compendiums/Diversity.md",
-    "2️⃣ Compendiums/Concepts/Law of Requisite Variety.md",
-    "1️⃣ Primary Sources/Shabanov 2022b.md",
-    "1️⃣ Primary Sources/Shabanov 2022a.md",
-    "1️⃣ Primary Sources/Pianka 1966.md"
+    "__Media/Pasted image 20221214124807.png",
+    "__Media/Pasted image 20221214125814.png",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "__Media/Pasted image 20221214121016.png",
+    "__Media/Pasted image 20221214094010.png",
+    "__Media/Pasted image 20221214115955.png",
+    "__Media/Pasted image 20221202163803.png",
+    "__Templates/Ontology.md",
+    "1️⃣ Primary Sources/Author 2022.md"
   ]
 }

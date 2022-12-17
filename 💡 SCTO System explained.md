@@ -1,4 +1,5 @@
-As academics knowledge is everything for us. Structure is that which enables us to create new knowledge from existing knowledge. It enables to see new connections, identify gaps and direct our efforts. 
+As **academics** knowledge is everything for us. Structure enables us to create new knowledge from existing knowledge. It enables to identify gaps, see new connections and direct our efforts. 
+
 
 This article is about **structure**. The SCTO System presented here, will help you to be fast in your writing and absolutely solid in your citations. Having a system of taking notes is like a having a librarian for your brain, where knowledge can be very quickly retrieved and traced back to primary sources. Or think of it like having a shoe for your brain that allows you to run (i.e. think) faster with more comfort, confidence and ease. 
 

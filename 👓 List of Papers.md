@@ -11,8 +11,6 @@ All papers in primary sources folder, sorted by rating
 TABLE without id file.link as Paper, ShortSummary as Summary, Rating FROM "1️⃣ Primary Sources" sort Rating DESC
 ```
 
-
-
 # Review Papers
 Papers with a #reviewpaper tag.
 
@@ -27,3 +25,4 @@ Papers with a #ecology  tag.
 ```dataview
 TABLE without id file.link as Paper, ShortSummary as Summary, Rating FROM #ecology  AND "1️⃣ Primary Sources"  sort Rating DESC
 ```
+
