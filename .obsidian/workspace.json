@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "78648643c03c834f",
+        "id": "9488018a02d28339",
         "type": "tabs",
         "children": [
           {
-            "id": "bf83dc01d622bc89",
+            "id": "cd8c4ba89a08b2a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4️⃣ Ontologies/What defines Biodiversity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4️⃣ Ontologies/What defines Biodiversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4️⃣ Ontologies/What defines Biodiversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4️⃣ Ontologies/What defines Biodiversity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf83dc01d622bc89",
+  "active": "cd8c4ba89a08b2a8",
   "lastOpenFiles": [
+    "Dataview Templates.md",
+    "📚 Reading List.md",
+    "__Media/Pasted image 20221214094010.png",
+    "Readme.md",
+    "4️⃣ Ontologies/What defines Biodiversity.md",
     "__Media/Pasted image 20221214124807.png",
     "__Media/Pasted image 20221214125814.png",
     "__Media/Pasted image 20221214131115.png",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
-    "__Media/Pasted image 20221214121016.png",
-    "__Media/Pasted image 20221214094010.png",
-    "__Media/Pasted image 20221214115955.png",
-    "__Media/Pasted image 20221202163803.png",
-    "__Templates/Ontology.md",
-    "1️⃣ Primary Sources/Author 2022.md"
+    "__Media/Pasted image 20221214121016.png"
   ]
 }
