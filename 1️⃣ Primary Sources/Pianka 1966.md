@@ -14,6 +14,9 @@ ShortSummary: Primary production begets diversity. because more energy means big
 > [!tldr] Summary 3/5
 > Review of 6 major theories of what causes species diversity, especially higher diversity in the tropics. But no clear answer is given which is more probable. 
 
+> [!quote] Quotable
+> A good review of current theories on biodiversity can be found in [Pianka 1966].
+
 
 - Many animal taxa display latitudinal gradients. 
 

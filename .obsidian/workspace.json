@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "__Templates/Source Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "__Templates/Source Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "__Templates/Source Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "__Templates/Source Note.md"
               }
             }
           },
@@ -182,15 +182,15 @@
   },
   "active": "375d5f436919fb70",
   "lastOpenFiles": [
-    "Start here.canvas",
-    "Dataview Templates.md",
-    "Readme.md",
-    "4️⃣ Ontologies/What defines Biodiversity.md",
-    "👓 List of Papers.md",
-    "📚 Reading List.md",
-    "🗓️ Calendar Home.md",
+    "__Templates/Outline Note.md",
+    "__Templates/Calendar Entry.md",
+    "1️⃣ Primary Sources/Shabanov 2022a.md",
+    "1️⃣ Primary Sources/Shabanov 2022b.md",
+    "1️⃣ Primary Sources/Pianka 1966.md",
     "1️⃣ Primary Sources/Connell 1964.md",
-    "📆 Calendar/24 Dec 2022.md",
-    "2️⃣ Compendiums/Concepts/Law of Requisite Variety.md"
+    "__Templates/Source Note.md",
+    "Start here.canvas",
+    "Readme.md",
+    "Dataview Templates.md"
   ]
 }

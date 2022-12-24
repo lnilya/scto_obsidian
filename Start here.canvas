@@ -1,10 +1,5 @@
 {
 	"nodes":[
-		{"id":"ab18f09f89d72076","x":-290,"y":238,"width":400,"height":400,"color":"2","type":"file","file":"1️⃣ Primary Sources/Connell 1964.md"},
-		{"id":"307f1b5f1436bec0","x":231,"y":238,"width":400,"height":855,"color":"5","type":"file","file":"2️⃣ Compendiums/Diversity.md"},
-		{"id":"dc37cd57ccc43212","x":-290,"y":693,"width":400,"height":400,"color":"2","type":"file","file":"1️⃣ Primary Sources/Pianka 1966.md"},
-		{"id":"4f93325889f51469","x":769,"y":238,"width":400,"height":855,"color":"6","type":"file","file":"3️⃣ Thoughts/Biodiversity Mechanisms.md"},
-		{"id":"698f9ca30bebc2d4","x":1371,"y":238,"width":400,"height":855,"color":"3","type":"file","file":"4️⃣ Ontologies/What defines Biodiversity.md"},
 		{"id":"3fcabf1e86f48db8","x":-1821,"y":-681,"width":594,"height":93,"type":"text","text":"# HOW DOES IT WORK?"},
 		{"id":"388ba35c49c1dbf4","x":-2937,"y":-780,"width":250,"height":292,"color":"4","type":"text","text":"# START \n\nI am glad you want to get started with using the SCTO system.\n\nThe goal is: Make your academic journey more effortless! "},
 		{"id":"7de13e3999164e4c","x":-993,"y":-1705,"width":250,"height":305,"color":"#428bff","type":"text","text":"# [Click here](https://twitter.com/Artifexx/status/1606455378149273600)\n\nTo learn how I migrated 100s of word documents and google docs using a script.\n\nIt takes about 5 minutes! "},
@@ -12,12 +7,18 @@
 		{"id":"8f0d4bdac605be16","x":-336,"y":-526,"width":2145,"height":450,"type":"group","label":"The SCTO System in a nutshell"},
 		{"id":"98a43a72f04f1437","x":-290,"y":-506,"width":400,"height":253,"color":"2","type":"text","text":"*Source notes*\n# S for SOURCE\n\nThese are all your sources, everything you read and want to be able to reference becomes a source. "},
 		{"id":"a3ccb8421ab7b8c0","x":231,"y":-506,"width":400,"height":253,"color":"5","type":"text","text":"*Compendium notes*\n# C for COLLECT\n\nHere you collect factual statements from your sources. It makes it easy to summarise a bunch of related papers into silos of knowledge. "},
+		{"id":"6ae9f555d74f3b38","x":-349,"y":-1167,"width":400,"height":400,"color":"3","type":"file","file":"💡 SCTO System explained.md"},
+		{"id":"f7273be3594e8133","x":-2991,"y":-2422,"width":609,"height":570,"type":"file","file":"🗓️ Calendar Home.md"},
+		{"id":"cb6fb801dbb1d546","x":-2983,"y":-1552,"width":594,"height":93,"type":"text","text":"# HOW TO CREATE A LAB NOTEBOOKS AND TRACK NOTES BY DATE?"},
 		{"id":"4a3d244ec16e5d66","x":769,"y":-506,"width":400,"height":253,"color":"6","type":"text","text":"*Question notes*\n# T for THINK\n\nWhen you read, questions arise and ideas immerge. It is essential to jot those down righ away. This will strengthen your critical thinking."},
 		{"id":"5d94e489d4d0e4bc","x":1371,"y":-506,"width":400,"height":253,"color":"3","type":"text","text":"*Ontology notes*\n# O for OUTLINE\n\nWhen you have filled your Collections **C** and aggregated questions and Ideas **T**. It is time to merge everyting together. Into one ontology."},
-		{"id":"6ae9f555d74f3b38","x":-349,"y":-1167,"width":400,"height":400,"color":"3","type":"file","file":"💡 SCTO System explained.md"},
-		{"id":"e03b6cafd1bf5acb","x":-1127,"y":1173,"width":688,"height":944,"type":"file","file":"👓 List of Papers.md"},
-		{"id":"f7273be3594e8133","x":-2991,"y":-2422,"width":609,"height":570,"type":"file","file":"🗓️ Calendar Home.md"},
-		{"id":"cb6fb801dbb1d546","x":-2983,"y":-1552,"width":594,"height":93,"type":"text","text":"# HOW TO CREATE A LAB NOTEBOOKS AND TRACK NOTES BY DATE?"}
+		{"id":"e03b6cafd1bf5acb","x":-434,"y":1540,"width":688,"height":944,"type":"file","file":"👓 List of Papers.md"},
+		{"id":"b9f11723d9a40df7","x":-314,"y":198,"width":2101,"height":915,"type":"group","label":"Examples"},
+		{"id":"ab18f09f89d72076","x":-294,"y":238,"width":400,"height":400,"color":"2","type":"file","file":"1️⃣ Primary Sources/Connell 1964.md"},
+		{"id":"307f1b5f1436bec0","x":227,"y":238,"width":400,"height":855,"color":"5","type":"file","file":"2️⃣ Compendiums/Diversity.md"},
+		{"id":"4f93325889f51469","x":765,"y":238,"width":400,"height":855,"color":"6","type":"file","file":"3️⃣ Thoughts/Biodiversity Mechanisms.md"},
+		{"id":"698f9ca30bebc2d4","x":1367,"y":238,"width":400,"height":855,"color":"3","type":"file","file":"4️⃣ Ontologies/What defines Biodiversity.md"},
+		{"id":"dc37cd57ccc43212","x":-294,"y":693,"width":400,"height":400,"color":"2","type":"file","file":"1️⃣ Primary Sources/Pianka 1966.md"}
 	],
 	"edges":[
 		{"id":"0d1b73e0ac2e9319","fromNode":"98a43a72f04f1437","fromSide":"right","toNode":"a3ccb8421ab7b8c0","toSide":"left"},
@@ -35,6 +36,7 @@
 		{"id":"e447ce412bf15194","fromNode":"388ba35c49c1dbf4","fromSide":"right","toNode":"57378f5ffb96c404","toSide":"left"},
 		{"id":"11378e1cfa357ab1","fromNode":"57378f5ffb96c404","fromSide":"right","toNode":"7de13e3999164e4c","toSide":"left"},
 		{"id":"4b6f078b744778a0","fromNode":"cb6fb801dbb1d546","fromSide":"top","toNode":"f7273be3594e8133","toSide":"bottom"},
-		{"id":"37a60a83d5c9bef6","fromNode":"388ba35c49c1dbf4","fromSide":"top","toNode":"cb6fb801dbb1d546","toSide":"bottom"}
+		{"id":"37a60a83d5c9bef6","fromNode":"388ba35c49c1dbf4","fromSide":"top","toNode":"cb6fb801dbb1d546","toSide":"bottom"},
+		{"id":"41ab8b362c3924f6","fromNode":"dc37cd57ccc43212","fromSide":"bottom","toNode":"e03b6cafd1bf5acb","toSide":"top","label":"This is an overview of all your literature\nIt is your Reference Manager"}
 	]
 }

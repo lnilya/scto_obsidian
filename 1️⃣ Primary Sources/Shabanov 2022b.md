@@ -43,3 +43,10 @@ While Notion and Evernote are great tools (as commercial tools should be). They 
 Obsidian has a huge comunity and tends to be "hackable" which enables a lot of cool features that will not be available by other tools. Like creating scripts that operate directly on the data files. 
 
 > I have created a variety of custom scripts that enable to import and export files and PDFs that we will cover on the [blog](https://ilyashabanov.substack.com/) shortly. 
+
+
+## Related
+
+How to migrate from Word & Google Docs to the SCTO system [Tweet](https://twitter.com/Artifexx/status/1606455378149273600). 
+
+A bref summary of what you miss out on: [Tweet](https://twitter.com/Artifexx/status/1605931421192830976)

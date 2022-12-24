@@ -14,6 +14,9 @@ ShortSummary: Primary production begets diversity. because more energy means big
 > [!tldr] Summary 4/5
 > Primary production begets diversity. because more energy means bigger populations and more possibilities to speciate. More species leads to a feedback loop of overspecialization that makes populations more vulnerable to shifting environments. 
 
+> [!quote] Quotable
+> In their landmark paper [Connel and Orias] identify a novel way of predicting biodiversity from primary production.
+
 
 ### Aim of Paper
 What brings about diversity? i.e. "more species"
