@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9488018a02d28339",
+        "id": "d95b2c2a87f48da6",
         "type": "tabs",
         "children": [
           {
-            "id": "cd8c4ba89a08b2a8",
+            "id": "84dc523c38d9da6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "__Templates/Source Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375d5f436919fb70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c133a0a9428abf52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📆 Calendar/24 Dec 2022.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,27 +149,48 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "cd8c4ba89a08b2a8",
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "375d5f436919fb70",
   "lastOpenFiles": [
+    "Start here.canvas",
     "Dataview Templates.md",
-    "📚 Reading List.md",
-    "__Media/Pasted image 20221214094010.png",
     "Readme.md",
     "4️⃣ Ontologies/What defines Biodiversity.md",
-    "__Media/Pasted image 20221214124807.png",
-    "__Media/Pasted image 20221214125814.png",
-    "__Media/Pasted image 20221214131115.png",
-    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
-    "__Media/Pasted image 20221214121016.png"
+    "👓 List of Papers.md",
+    "📚 Reading List.md",
+    "🗓️ Calendar Home.md",
+    "1️⃣ Primary Sources/Connell 1964.md",
+    "📆 Calendar/24 Dec 2022.md",
+    "2️⃣ Compendiums/Concepts/Law of Requisite Variety.md"
   ]
 }
