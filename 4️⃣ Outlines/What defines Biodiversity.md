@@ -14,5 +14,5 @@ Different ideas have been proposed through the years for what defines biodiversi
 ## References
 
 ```dataview
-TABLE DOI FROM outgoing([[]]) AND "1️⃣ Primary Sources"
+TABLE without id DOI FROM outgoing([[]]) AND "1️⃣ Primary Sources"
 ```

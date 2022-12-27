@@ -26,3 +26,10 @@ Papers with a #ecology  tag.
 TABLE without id file.link as Paper, ShortSummary as Summary, Rating FROM #ecology  AND "1️⃣ Primary Sources"  sort Rating DESC
 ```
 
+
+
+> [!fail]- Papers in need of a tag!
+> Please provide a tag for these papers: 
+> ```dataview
+> table without id file.link as Paper, Summary, Rating from "1️⃣ Primary Sources" where length(file.tags) = 0
+> ```

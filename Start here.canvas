@@ -15,9 +15,9 @@
 		{"id":"e03b6cafd1bf5acb","x":-434,"y":1540,"width":688,"height":944,"type":"file","file":"👓 List of Papers.md"},
 		{"id":"b9f11723d9a40df7","x":-314,"y":198,"width":2101,"height":915,"type":"group","label":"Examples"},
 		{"id":"ab18f09f89d72076","x":-294,"y":238,"width":400,"height":400,"color":"2","type":"file","file":"1️⃣ Primary Sources/Connell 1964.md"},
-		{"id":"307f1b5f1436bec0","x":227,"y":238,"width":400,"height":855,"color":"5","type":"file","file":"2️⃣ Compendiums/Diversity.md"},
+		{"id":"307f1b5f1436bec0","x":227,"y":238,"width":400,"height":855,"color":"5","type":"file","file":"2️⃣ Collections/Diversity.md"},
 		{"id":"4f93325889f51469","x":765,"y":238,"width":400,"height":855,"color":"6","type":"file","file":"3️⃣ Thoughts/Biodiversity Mechanisms.md"},
-		{"id":"698f9ca30bebc2d4","x":1367,"y":238,"width":400,"height":855,"color":"3","type":"file","file":"4️⃣ Ontologies/What defines Biodiversity.md"},
+		{"id":"698f9ca30bebc2d4","x":1367,"y":238,"width":400,"height":855,"color":"3","type":"file","file":"4️⃣ Outlines/What defines Biodiversity.md"},
 		{"id":"dc37cd57ccc43212","x":-294,"y":693,"width":400,"height":400,"color":"2","type":"file","file":"1️⃣ Primary Sources/Pianka 1966.md"}
 	],
 	"edges":[

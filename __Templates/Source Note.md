@@ -2,14 +2,13 @@
 DOI: {DOI}
 Date: {DATE}
 Rating: 0/5
-Title: {TITLE}
-ShortSummary: ...
+Title: "{TITLE}"
+ShortSummary: "{SUMMARY}"
 ---
 {TAGS}
 
-*Joseph H Connell, Eduardo Orias*
 # {TITLE}
-
+*Authors*
 
 > [!tldr] Summary
 > A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
